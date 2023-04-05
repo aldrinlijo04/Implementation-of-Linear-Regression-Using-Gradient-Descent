@@ -98,38 +98,41 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 
 
 ## Output:
-Profit Prediction graph
-
-![image](https://user-images.githubusercontent.com/118544279/229988250-156480b6-b9c3-4980-8075-541148dfa171.png)
 
 Compute Cost Value
 
-![image](https://user-images.githubusercontent.com/118544279/229988362-113426c0-4384-4022-b111-2a31b74e4c71.png)
+
+![2](https://user-images.githubusercontent.com/118544279/229989288-3931d904-fca3-41c1-af71-07c6c55927cc.png)
 
 
 h(x) Value
 
-![image](https://user-images.githubusercontent.com/118544279/229988396-2107c4eb-9029-4504-aa08-ee65d7223962.png)
+
+![3](https://user-images.githubusercontent.com/118544279/229989320-939626bf-eb0a-41cd-b10c-a0d871a23f59.png)
 
 
 Cost function using Gradient Descent Graph
 
-![image](https://user-images.githubusercontent.com/118544279/229988044-ef69c5fb-194d-4370-a3e0-461b3938fda7.png)
+![4](https://user-images.githubusercontent.com/118544279/229989364-deef6266-7dca-412a-8a46-5fdcc955beb4.png)
+
 
 
 Profit Prediction Graph
 
-![image](https://user-images.githubusercontent.com/118544279/229988506-711c2aa7-d99c-4824-9a55-9b638f1a7222.png)
+
+![5](https://user-images.githubusercontent.com/118544279/229989379-9fcb13b6-b47f-48eb-ad76-22d9dab58787.png)
 
 
 Profit for the Population 35,000
 
-![image](https://user-images.githubusercontent.com/118544279/229988635-19306fcb-bffa-4228-b7e4-3fcbdf9dc2ff.png)
+![6](https://user-images.githubusercontent.com/118544279/229989416-a5d898d2-7b63-497f-93b4-70f030dd986a.png)
+
 
 
 Profit for the Population 70,000
 
-![image](https://user-images.githubusercontent.com/118544279/229988668-dd22b4e8-1fda-4e4e-8ca5-dda77fd071d3.png)
+
+![8](https://user-images.githubusercontent.com/118544279/229989719-35ba53ec-ada5-4b6f-ac50-2e5666dfee20.png)
 
 
 ## Result:
